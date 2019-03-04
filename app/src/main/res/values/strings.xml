@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">500px</string>
+
+    <!-- Photo Fragment-->
+    <string name="photo_camera">Camera</string>
+    <string name="photo_description">Description</string>
+    <string name="photo_rating">Rating</string>
+    <string name="photo_user_name">Clicked By</string>
+    <string name="image_content">Image</string>
+    <string name="not_available">Not Available</string>
+</resources>
